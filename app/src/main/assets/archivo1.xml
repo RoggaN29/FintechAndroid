@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<oferentes>
+   <oferente>
+      <rfcOferente>FUR890406</rfcOferente>
+      <edadOferente>31</edadOferente>
+      <sexoOferente>M</sexoOferente>
+      <clabeOferente>663849002871</clabeOferente>
+      <balanceOferente>50000</balanceOferente>
+   </oferente>
+
+   <oferente>
+      <rfcOferente>DKT0870901</rfcOferente>
+      <edadOferente>33</edadOferente>
+      <sexoOferente>F</sexoOferente>
+      <clabeOferente>887719201129</clabeOferente>
+      <balanceOferente>100000</balanceOferente>
+   </oferente>
+
+   <oferente>
+      <rfcOferente>TAO801207</rfcOferente>
+      <edadOferente>40</edadOferente>
+      <sexoOferente>M</sexoOferente>
+      <clabeOferente>773200192821</clabeOferente>
+      <balanceOferente>20500</balanceOferente>
+   </oferente>
+
+   <oferente>
+      <rfcOferente>LOD900808</rfcOferente>
+      <edadOferente>29</edadOferente>
+      <sexoOferente>M</sexoOferente>
+      <clabeOferente>001298313393</clabeOferente>
+      <balanceOferente>12500</balanceOferente>
+   </oferente>
+   <oferente>
+      <rfcOferente>PYF981202</rfcOferente>
+      <edadOferente>21</edadOferente>
+      <sexoOferente>F</sexoOferente>
+      <clabeOferente>478299102234</clabeOferente>
+      <balanceOferente>987500</balanceOferente>
+   </oferente>
+
+   <oferente>
+      <rfcOferente>UTR781108</rfcOferente>
+      <edadOferente>42</edadOferente>
+      <sexoOferente>F</sexoOferente>
+      <clabeOferente>872266918200</clabeOferente>
+      <balanceOferente>73600</balanceOferente>
+   </oferente>
+
+   <oferente>
+      <rfcOferente>ENO990630</rfcOferente>
+      <edadOferente>20</edadOferente>
+      <sexoOferente>M</sexoOferente>
+      <clabeOferente>444859302003</clabeOferente>
+      <balanceOferente>10890</balanceOferente>
+   </oferente>
+
+   <oferente>
+      <rfcOferente>FLV681025</rfcOferente>
+      <edadOferente>52</edadOferente>
+      <sexoOferente>F</sexoOferente>
+      <clabeOferente>354478920027</clabeOferente>
+      <balanceOferente>8604990</balanceOferente>
+   </oferente>
+
+   <oferente>
+      <rfcOferente>BVU601218</rfcOferente>
+      <edadOferente>60</edadOferente>
+      <sexoOferente>M</sexoOferente>
+      <clabeOferente>554839220129</clabeOferente>
+      <balanceOferente>408000</balanceOferente>
+   </oferente>
+
+   <oferente>
+      <rfcOferente>QCU850820</rfcOferente>
+      <edadOferente>35</edadOferente>
+      <sexoOferente>F</sexoOferente>
+      <clabeOferente>738849020034</clabeOferente>
+      <balanceOferente>950400</balanceOferente>
+   </oferente>
+
+</oferentes>
