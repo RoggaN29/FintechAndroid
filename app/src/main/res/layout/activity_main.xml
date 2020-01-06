@@ -5,10 +5,22 @@
     android:orientation="vertical"
     tools:context=".MainActivity" >
 
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:paddingTop="10dp"
+        android:text="Listado de oferentes por RFC:"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
     <ListView
         android:id="@+id/list"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" >
-    </ListView>
+        android:layout_height="631dp"></ListView>
+
+
 
 </LinearLayout>

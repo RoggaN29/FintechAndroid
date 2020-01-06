@@ -1,17 +1,13 @@
-package mx.unam.tic.parser;
+package mx.unam.dgtic.diplomado;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.InputDevice;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
-import android.widget.Button;
 import android.widget.ListView;
-import android.widget.TextView;
-import android.widget.Toast;
 
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserFactory;
@@ -20,7 +16,7 @@ import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 
-import mx.unam.tic.parser.TO.OferenteTO;
+import mx.unam.dgtic.diplomado.TO.OferenteTO;
 
 public class MainActivity extends AppCompatActivity {
     private ListView lista;

@@ -1,4 +1,4 @@
-package mx.unam.tic.parser.TO;
+package mx.unam.dgtic.diplomado.TO;
 
 public class OferenteTO {
 

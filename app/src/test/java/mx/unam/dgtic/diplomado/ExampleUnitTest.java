@@ -1,4 +1,4 @@
-package mx.unam.tic.parser;
+package mx.unam.dgtic.diplomado;
 
 import org.junit.Test;
 
